@@ -1,4 +1,4 @@
-int kecepatan = 10;
+int kecepatan = 50;
 
 void setup(){
   
